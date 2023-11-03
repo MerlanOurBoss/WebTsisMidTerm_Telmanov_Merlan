@@ -1,0 +1,9 @@
+.tweet {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 10px;
+}
